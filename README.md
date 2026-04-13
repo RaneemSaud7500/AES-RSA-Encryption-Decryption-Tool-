@@ -23,7 +23,8 @@ This tool provides a hands-on experience with modern cryptography standards. It 
 
 ##   Tech Stack
 * **Language:** Python 
-* **Libraries:** * `cryptography`: For high-level AES implementation.
+* **Libraries:**
+    *  `cryptography`: For high-level AES implementation.
     * `rsa`: For asymmetric key generation and processing.
     * `Tkinter`: For the graphical user interface.
 
